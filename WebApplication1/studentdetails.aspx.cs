@@ -38,7 +38,7 @@ namespace WebApplication1
         {
             if (DropDownList1.SelectedValue == "")
             {
-                Label6.Text = "All Fileds Are Mandatory from Saurabh";
+                Label6.Text = "All Fileds Are Mandatory from Sandeep";
             }
             else
             {
